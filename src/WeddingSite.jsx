@@ -618,7 +618,7 @@ const WeddingSite = () => {
       <div className="wedding-page">
         <header className="nav-shell">
           <div className="nav-inner">
-            <div className="nav-brand">Jamie &amp; Meg · 31 July 2027</div>
+            <div className="nav-brand">Jamie &amp; Meg's Wedding · 31 July 2027</div>
             <nav className="nav-links">
               <button className="nav-link" onClick={() => handleNavClick("our-day")}>
                 Our Day
@@ -662,7 +662,7 @@ const WeddingSite = () => {
                   </div>
                 ) : (
                   <>
-                    <div className="countdown-label">Countdown to our garden party</div>
+                    <div className="countdown-label">Countdown to our wedding</div>
                     <div className="countdown-grid">
                       <div className="countdown-item">
                         <div className="countdown-number">{timeLeft.days}</div>
@@ -690,7 +690,7 @@ const WeddingSite = () => {
                   RSVP online
                   <span>↗</span>
                 </button>
-                <div className="secondary-text">We kindly request responses by 31 May 2027.</div>
+                <div className="secondary-text">We kindly request responses by 30 April 2027.</div>
               </div>
             </div>
 
@@ -700,7 +700,7 @@ const WeddingSite = () => {
                 <div className="hero-photo-border" />
                 <div className="hero-photo-caption">
                   <div className="hero-photo-tag">The Warren Estate</div>
-                  <div className="hero-photo-main">English romantic garden views.</div>
+                  <div className="hero-photo-main">Essex Country side venue</div>
                 </div>
               </div>
             </aside>
