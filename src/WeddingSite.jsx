@@ -909,7 +909,7 @@ const WeddingSite = () => {
                 {/* Replace the action URL below with your own Formspree or form handler URL */}
                 <form
                   className="rsvp-form"
-                  action="https://formspree.io/f/yourFormIdHere"
+                  action="https://formspree.io/f/xjkjznwn"
                   method="POST"
                 >
                   <div>
