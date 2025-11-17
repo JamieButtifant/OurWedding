@@ -566,6 +566,7 @@ const WeddingSite = () => {
           font-family: inherit;
           outline: none;
           background: rgba(255, 255, 255, 0.96);
+          color: var(--text-main);
         }
 
         .field-input:focus,
