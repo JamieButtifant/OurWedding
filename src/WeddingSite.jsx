@@ -89,7 +89,7 @@ const WeddingSite = () => {
         }
 
         .nav-inner {
-          max-width: 1040px;
+          max-width: 1400px;
           margin: 0 auto;
           padding: 0.65rem 1.5rem;
           display: flex;
@@ -135,12 +135,12 @@ const WeddingSite = () => {
         }
 
         .hero {
-          padding: 3.5rem 1.5rem 3rem;
+          padding: 3.5rem 0 3rem;
           background: radial-gradient(circle at top, var(--rose-soft), var(--bg));
         }
 
         .hero-inner {
-          max-width: 1040px;
+          max-width: 1400px;
           margin: 0 auto;
           display: grid;
           grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
