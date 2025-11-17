@@ -326,7 +326,7 @@ const WeddingSite = () => {
 
         .hero-photo-inner {
           border-radius: 24px;
-          background: url('https://images.pexels.com/photos/265947/pexels-photo-265947.jpeg?auto=compress&cs=tinysrgb&w=1200')
+          background: url('https://lh3.googleusercontent.com/p/AF1QipPX2L_SXo9-CpRRJyonvWnkjc2-_yg4BM0F6yrs=s1360-w1360-h1020-rw')
               center/cover no-repeat;
           min-height: 260px;
           position: relative;
@@ -370,7 +370,7 @@ const WeddingSite = () => {
         }
 
         .content-section {
-          max-width: 1040px;
+          max-width: 1400px;
           margin: 0 auto;
           padding: 2.5rem 1.5rem 0;
         }
